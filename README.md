@@ -11,7 +11,7 @@ Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend develope
 
 - 🌍 **Location**: Pune,maharashtra
 
-- 📧 **Contact**: gadawe.vicky22@gmail.com(mailto:gadawe.vicky22@gmail.com)
+- 📧 **Contact**: (mailto:gadawe.vicky22@gmail.com)
 
 ---
 
