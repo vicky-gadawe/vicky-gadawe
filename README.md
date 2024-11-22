@@ -1,4 +1,4 @@
-# 🌟 ♟Welcome to My  Portfolio 💻👨‍💻
+<h3 color="red"># 🌟 ♟Welcome to My  Portfolio 💻👨‍💻
 ======================================
 
 [![Java Developer](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -20,8 +20,8 @@ Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend develope
 ### **Languages & Frameworks**
 
 Back-End  - **Java** | **Spring Boot** | **Hibernate** | **Spring Security** <br>
-Front-End - **HTML** | **CSS** | **JavaScript**
-Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**
+Front-End - **HTML** | **CSS** | **JavaScript**<br>
+Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**<br>
 
 ### **Tools & Technologies**
 
