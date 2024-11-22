@@ -1,18 +1,17 @@
-# 🌟 ♟![Uploading RealkingGIF.gif…]()
-Welcome to My  Portfolio 💻👨‍💻
+# 🌟 ♟Welcome to My  Portfolio 💻👨‍💻
+======================================
 
 [![Java Developer](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
-Hello there! 👋 I'm **[Your Name]**, a Java enthusiast and backend developer who loves creating efficient and scalable applications. My goal is to build robust solutions and contribute to open-source communities.
+Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend developer who loves creating efficient and scalable applications. My goal is to build robust solutions and contribute to open-source communities.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 **About Me**
 
-- 🌍 **Location**: [Your Location]
-- 💼 **Job**: **[Your Job Title]** at **[Company Name]**
-- 🖥️ **Currently working on**: **[Project Name]**
-- 📧 **Contact**: [your.email@example.com](mailto:your.email@example.com)
+- 🌍 **Location**: Pune,maharashtra
+
+- 📧 **Contact**: gadawe.vicky22@gmail.com(mailto:gadawe.vicky22@gmail.com)
 
 ---
 
@@ -20,9 +19,9 @@ Hello there! 👋 I'm **[Your Name]**, a Java enthusiast and backend developer w
 
 ### **Languages & Frameworks**
 
-- **Java** | **Spring Boot** | **Hibernate** | **Spring Security**
-- **HTML** | **CSS** | **JavaScript**
-- **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**
+Back-End  - **Java** | **Spring Boot** | **Hibernate** | **Spring Security**
+Front-End - **HTML** | **CSS** | **JavaScript**
+Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**
 
 ### **Tools & Technologies**
 
