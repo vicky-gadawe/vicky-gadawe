@@ -1,17 +1,17 @@
-<h3 color="red"># 🌟 ♟Welcome to My  Portfolio 💻👨‍💻</h3>
-======================================
+# 🌟 **Welcome to My Portfolio** 💻👨‍💻
 
 [![Java Developer](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
-Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend developer who loves creating efficient and scalable applications. My goal is to build robust solutions and contribute to open-source communities.
+Hello there! 👋 I'm **[VICKY-GADAWE]**, a **Java Enthusiast** and **Backend Developer** who loves creating efficient and scalable applications. My goal is to build robust solutions and contribute to open-source communities.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🚀 **About Me**
 
-- 🌍 **Location**: Pune,maharashtra
-
-- 📧 **Contact**: gadawe.vicky22@gmail.com
+- 🌍 **Location**: Pune, Maharashtra
+- 📧 **Email**: [gadawe.vicky22@gmail.com](mailto:gadawe.vicky22@gmail.com)
+- 💼 **Currently Working On**: **[Project Name]**
+- 🔗 **Portfolio**: [Your Portfolio Link](https://www.yourportfolio.com)
 
 ---
 
@@ -19,9 +19,9 @@ Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend develope
 
 ### **Languages & Frameworks**
 
-Back-End  - **Java** | **Spring Boot** | **Hibernate** | **Spring Security** <br>
-Front-End - **HTML** | **CSS** | **JavaScript**<br>
-Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**<br>
+- **Back-End**: **Java** | **Spring Boot** | **Hibernate** | **Spring Security**  
+- **Front-End**: **HTML** | **CSS** | **JavaScript**  
+- **Database**: **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**  
 
 ### **Tools & Technologies**
 
@@ -29,29 +29,31 @@ Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**<br>
 
 ---
 
-## 🌟 **Animated GitHub Stats** 
+## 🌟 **GitHub Stats**  
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs&line_height=24)
 
 ---
 
-## 🎨 **My Projects**
+## 🎨 **My Projects**  
 
 Here’s a collection of projects I’ve worked on:
 
 ### 💻 **[Project Name 1](https://github.com/YourGitHubUsername/ProjectName1)**  
 ![Project 1 Animated](https://media.giphy.com/media/8Qj4v7bePSn24/giphy.gif)  
 - **Description**: A task management application using **Spring Boot** with a RESTful API.
-- **Tech Stack**: Java, Spring Boot, MySQL
+- **Tech Stack**: **Java**, **Spring Boot**, **MySQL**
 - **Features**:
   - User authentication via JWT
   - Task CRUD functionality
   - Responsive UI
+  
+---
 
 ### 🌍 **[Project Name 2](https://github.com/YourGitHubUsername/ProjectName2)**  
 ![Project 2 Animated](https://media.giphy.com/media/Y8k9fEYxtv6Tm/giphy.gif)  
 - **Description**: A microservices-based e-commerce app using **Spring Cloud**.
-- **Tech Stack**: Spring Cloud, Docker, PostgreSQL
+- **Tech Stack**: **Spring Cloud**, **Docker**, **PostgreSQL**
 - **Features**:
   - Microservices architecture
   - Shopping cart & checkout flow
@@ -63,7 +65,7 @@ Here’s a collection of projects I’ve worked on:
 
 Feel free to reach out to discuss any exciting projects or if you have any questions!
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [gadawe.vicky22@gmail.com](mailto:gadawe.vicky22@gmail.com)
 - 🌍 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
 - 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
@@ -129,7 +131,7 @@ If you appreciate my work, feel free to ⭐ my repositories and help me grow!
 ## 👇 **Let’s Connect**
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [gadawe.vicky22@gmail.com](mailto:gadawe.vicky22@gmail.com)
 - **GitHub**: [Your GitHub](https://github.com/YourGitHubUsername)
 
 ---
