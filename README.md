@@ -19,7 +19,7 @@ Hello there! 👋 I'm **[VICKY-GADAWE]**, a Java enthusiast and backend develope
 
 ### **Languages & Frameworks**
 
-Back-End  - **Java** | **Spring Boot** | **Hibernate** | **Spring Security**
+Back-End  - **Java** | **Spring Boot** | **Hibernate** | **Spring Security** <br>
 Front-End - **HTML** | **CSS** | **JavaScript**
 Database  - **SQL** | **PostgreSQL** | **MySQL** | **MongoDB**
 
